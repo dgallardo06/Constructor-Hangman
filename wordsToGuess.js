@@ -1,4 +1,4 @@
-var wordsToGuess = [];
+var wordsToGuess = ["superman", "android", "javascript", "programming", "soccer"];
 
 var random = Math.floor(Math.random() * wordsToGuess.length);
 
